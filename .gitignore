@@ -48,6 +48,6 @@ Thumbs.db
 # Maven Wrapper (Optional)
 # Keep if using Maven Wrapper
 # ==========================
- .mvn/
- mvnw
- mvnw.cmd
+.mvn/
+mvnw
+mvnw.cmd
